@@ -1,0 +1,14 @@
+problem1: problem1.c
+	gcc problem1.c -o problem1
+	
+	
+
+
+
+
+
+
+
+
+all:
+	problem1 problem2 problem3 problem4
